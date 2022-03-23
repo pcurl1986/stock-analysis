@@ -1,6 +1,6 @@
 # Stock Analysis using VBA and Excel
 
-##Overview of the Project
+## Overview of the Project
 
-##Purpose
+## Purpose
 
