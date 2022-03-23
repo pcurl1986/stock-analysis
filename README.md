@@ -6,3 +6,4 @@ For this project we analyzed, edited, and refactored the Stock Market Dataset us
 ## Results
 ### Analysis and Challenges
 ![OGC_17.png](/resources2/OGC_17.PNG)
+![OGC_18.png](/resources2/OGC_18.PNG)
