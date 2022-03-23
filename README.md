@@ -1,2 +1,4 @@
-# stock-analysis
-Module 2
+# Stock Analysis using VBA and Excel
+##Overview of the Project
+##Purpose
+
