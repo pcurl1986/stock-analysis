@@ -21,3 +21,9 @@ I began by copying the code that was needed to create the input box, chart heade
 ![OGC_18.png](/resources2/OGC_18.PNG)
 
 ## Summary
+
+So to summarize after we analyzed our data writing our initial code and then refactoring to make our code more easily read and decrease the run time we saw that the spreadsheet could be anazlyed in less than 1 sec. Going through multiple lines of data to give us the outputs we where looking for.
+
+![OGC_17.png](/resources2/OGC_17.PNG)
+![OGC_18.png](/resources2/OGC_18.PNG)
+
